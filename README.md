@@ -18,7 +18,9 @@ here's the link to the e-commerce website that i am still working on (https://gi
 and here's the link to the corporate website i am still working on too (https://github.com/J24y-k/Infinity-v1-)
 
 - Successful Projects: I’ve already built two Shopify e-commerce websites that are running successfully, one of which is for my personal brand. Through these, I’ve gained valuable experience in SEO, enhanced my creativity, and learned a bit about Ruby.
+
 -link1: ( https://unisonco.store/ )
+
 -link2: ( https://zzzora.com/ )
 
 🛠️ My Skills: 
