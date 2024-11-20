@@ -4,6 +4,7 @@
 🖥️ Profession: Web Developer
 
 About Me
+
 I’m a business-minded and hardworking individual with a strong passion for learning and growth in the software development field and part of grapghic designing. I recently completed my Higher Certificate in Software Development at Eduvos Bedfordview Campus and hold certifications in Python, HTML, and CSS.
 
 I thrive on challenges, and my personal motto is:
