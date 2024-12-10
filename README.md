@@ -5,7 +5,7 @@
 
 About Me
 
-I’m a business-minded and hardworking individual with a strong passion for learning and growth in the software development field and part of grapghic designing. I recently completed my Higher Certificate in Software Development at Eduvos Bedfordview Campus and hold certifications in Python, HTML, and CSS.
+I’m a business-minded and hardworking individual with a strong passion for learning and growth in the software development field and part of graphic designing. I recently completed my Higher Certificate in Software Development at Eduvos Bedfordview Campus and hold certifications in Python, HTML, and CSS.
 
 I thrive on challenges, and my personal motto is:
 “REST AT THE END, NOT IN THE MIDDLE.”
@@ -18,19 +18,23 @@ I thrive on challenges, and my personal motto is:
 here's the link to the e-commerce website that i am still working on (https://github.com/J24y-k/Unison.Co)
 and here's the link to the corporate website i am still working on too (https://github.com/J24y-k/Infinity-v1-)
 
+- i have succesfully completed a website assignment for a company as well: (https://github.com/J24y-k/designassessment.git)
+
 - Successful Projects: I’ve already built two Shopify e-commerce websites that are running successfully, one of which is for my personal brand. Through these, I’ve gained valuable experience in SEO, enhanced my creativity, and learned a bit about Ruby.
 
 -link1: ( https://unisonco.store/ )
 
 -link2: ( https://zzzora.com/ )
 
+
 🛠️ My Skills: 
 
  Technical Skills:
-- Programming Languages: Python, JavaScript, HTML, CSS
-- Learning: React.js, Ruby
+- Programming Languages: Python, JavaScript, HTML, CSS & Liquid 
+- Learning: React.js, Ruby, Php
 - Certifications: Python, HTML, CSS
-- Tools: Visual Studio Code, Figma
+- Tools: Visual Studio Code, Figma,
+- Platforms: Shopify, Wordpress
   
   Graphic Design Expertise:
   - Proficient in : Adobe Illustrator, Photoshop, Canva
