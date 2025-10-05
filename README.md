@@ -25,7 +25,7 @@ I thrive on challenges, and my personal motto is:
 -link7  ( https://www.zkproductionstudio.co.za/ )
 -link8  ( https://www.nmgzembeta.com/ ) 
 -link9  ( https://transdataconsult.com/ )
--link10 ( 
+-link10 ( https://j24y-k.github.io/GLS/ )
 
 
 
