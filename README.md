@@ -93,7 +93,7 @@ Professional Experience
 
 * Contact
 Email: jeremiahkazadi9@gmail.com
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/jeremie-kazadi-013a55372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 GitHub: https://github.com/J24y-k
 
 * Current Focus
