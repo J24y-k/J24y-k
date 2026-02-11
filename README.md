@@ -1,71 +1,102 @@
- Hi there! I'm Jeremie Kazadi
+Hi there, I’m Jeremie Kazadi
 
- Location: Johannesburg, South Africa
- Profession: Web Developer
+Web Developer based in Johannesburg, South Africa
 
-About Me
+I am a self-taught web developer with experience building and deploying websites across multiple industries. I focus on clean, responsive, SEO-friendly websites that are practical, scalable, and built around real business needs.
 
-I’m a business-minded and hardworking individual with a strong passion for learning and growth in the software development field and part of graphic designing. I recently completed my Higher Certificate in Software Development at Eduvos Bedfordview Campus and hold certifications in Python, HTML, and CSS.
+I have worked with engineering firms, retail brands, creative studios, churches, hotels, and service companies, delivering both static and CMS-based solutions.
 
-I thrive on challenges, and my personal motto is:
-“REST AT THE END, NOT IN THE MIDDLE.”
+What I Do:
 
- What I’m Working On:
+* Business and portfolio websites
+* E-commerce websites (Shopify)
+* WordPress corporate sites
+* Landing pages and campaign pages
+* Website redesigns and upgrades
+* Basic SEO setup and performance optimization
 
-- Improving My Portfolio: I’m currently building and polishing websites that showcase my skills and creativity.
+Live Projects
 
-- Successful Projects: I’ve already built two Shopify e-commerce websites that are running successfully, one of which is for my personal brand. Through these, I’ve gained valuable experience in SEO, enhanced my creativity, and learned a bit about Ruby. Here are the few projects completed
+E-commerce:
+* https://unisonco.store/
+* https://zzzora.com/
 
--link1: ( https://unisonco.store/ )
--link2: ( https://zzzora.com/ )
--link3: ( https://www.obbdiagnostics.com/ )
--link4  ( https://www.jesusthebreadoflife.co.za/ )
--link5  ( https://github.com/J24y-k/designassessment.git )
--link6  ( https://www.mubs.info/ )
--link7  ( https://www.zkproductionstudio.co.za/ )
--link8  ( https://www.nmgzembeta.com/ ) 
--link9  ( https://transdataconsult.com/ )
--link10 ( https://j24y-k.github.io/GLS/ )
+Business & Corporate:
+* https://www.nmgzembeta.com/
+* https://www.mubs.info/
+* https://www.zkproductionstudio.co.za/
+* https://www.obbdiagnostics.com/
+* https://transdataconsult.com/
+* https://www.jesusthebreadoflife.co.za/
+* https://skndetailing.com/
+* https://glsrefrigeration.co.za/
 
+Static & GitHub-Hosted Projects:
+* https://j24y-k.github.io/basketballacademies/
+* https://github.com/J24y-k/designassessment
 
+Technical Skills:
+* Frontend
+* HTML
+* CSS
+* JavaScript
+* React.js
+* GSAP
 
- My Skills: 
+CMS & Platforms:
+* Shopify (Liquid)
+* WordPress
+* GitHub Pages
 
- Technical Skills:
-- Programming Languages: Python, JavaScript, HTML, React Js, CSS & Shopify Liquid,  
-- Learning: React.js, Ruby, Php
-- Certifications: Python, HTML, CSS
-- Tools: Visual Studio Code, Figma,
-- Platforms: Shopify, Wordpress, GIthub
+Backend & Scripting: 
+* Python
+* PHP (basic)
+
+Tools:
+* Git & GitHub
+* VS Code
+* Figma
+* Canva
+* Adobe Illustrator
+
+Professional Experience
+
+* Web Developer & Founder : Unison Co — March 2024 to Present
+   Built and maintained a Shopify e-commerce platform
+   Led branding, web, and digital content execution
+   Managed a small creative team across media and production
+   Improved project delivery and brand digital presence
+
+* Data Analyst : Transdata Consult — May 2025 to Present
+   Cleaned and analysed traffic data for infrastructure projects
+   Conducted traffic counts and peak-hour studies
+   Working on a Python-based vehicle detection system
+
+* Freelance Web Developer : January 2023 to Present
+    Delivered websites for multiple industries including:
+       *Engineering
+       *Hospitality
+       *Creative studios
+       *Churches
+       *Retail brands
+
+*Certifications
+ Python Programming Certificate
+ HTML Certificate
+ CSS Certificate
+ Higher Certificate in Software Development (Eduvos)
+
+* Languages
   
-  Graphic Design Expertise:
-  - Proficient in : Adobe Illustrator, Photoshop, Canva
-  - Skilled in creating:
-     1) Logos and Brand identities
-     2) Social media content  (static and animated)
-     3) Marketing materials (posters, flyers, business cards and many more)
-     4) Web banners and emailers
-  
-Creative Skills: 
-- My graphic design background has sharpened my creativity and problem-solving abilities, which I bring into my web development work.
-- Self-taught graphic designer with 2+ years of experience.
-- Successfully designed for brands like Malta Services, Unison_Co, and others.
-- Specialize in crafting cohesive brand identities that communicate values and goals effectively.
-- Mastered tools like Blender and CapCut to push the boundaries of my design skills.
+  English (Fluent)
+  French (Fluent)
 
-  
+* Contact
+Email: jeremiahkazadi9@gmail.com
+LinkedIn: (add your link)
+GitHub: https://github.com/J24y-k
 
-  Languages:
-- Fluent in English and French
-
- How to Reach Me
-Feel free to reach out via email for professional inquiries:
- Email: jeremiahkazadi9@gmail.com
-
- Fun Fact
-I have an unyielding determination to see every task or project through to completion. I strongly believe that true rest comes only when the job is done, and there’s always a bigger challenge ahead to conquer.
-
-
-Thank you for visiting my profile! Stay tuned for updates on my upcoming projects and feel free to explore my repositories. If you’d like to collaborate or learn more about my work, drop me an email.
-
- Let’s Build Together!
+* Current Focus
+  Expanding my portfolio with more client projects
+  Improving React and backend skills
+  Building scalable, production-ready web solutions
